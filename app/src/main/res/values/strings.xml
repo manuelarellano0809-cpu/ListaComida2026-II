@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">Commudel</string>
-    <string name="desayuno">Desayunos en familia</string>
-    <string name="hamburger">Hamburguesa extra grande</string>
-    <string name="pizza">Pizzas a la orden</string>
-    <string name="postre">Disfruta de los postres </string>
-    <string name="pozole">Cualquier día es noche mexicana con Pozole </string>
-    <string name="tacos">Tacos de guisado </string>
+    <string name="app_name">Comidita</string>
+    <string name="desayuno">Desayuno</string>
+    <string name="hamburger">Hamburguesa</string>
+    <string name="pizza">Pizzas</string>
+    <string name="postre">Postres </string>
+    <string name="pozole">Pozole </string>
+    <string name="tacos">Tacos </string>
 </resources>
